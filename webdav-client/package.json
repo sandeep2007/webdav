@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nextcloud-node-client": "^1.8.1",
+    "webdav": "^3.6.2"
+  }
+}
